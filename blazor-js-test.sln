@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "blazor-js-test.Server", "Server\blazor-js-test.Server.csproj", "{75BC318B-E21A-4036-9DE7-98EFAC077EE1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "blazor-js-test.Client", "Client\blazor-js-test.Client.csproj", "{8662AC01-5FB8-4A56-A96D-E857E9463F19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75BC318B-E21A-4036-9DE7-98EFAC077EE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75BC318B-E21A-4036-9DE7-98EFAC077EE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75BC318B-E21A-4036-9DE7-98EFAC077EE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75BC318B-E21A-4036-9DE7-98EFAC077EE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8662AC01-5FB8-4A56-A96D-E857E9463F19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8662AC01-5FB8-4A56-A96D-E857E9463F19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8662AC01-5FB8-4A56-A96D-E857E9463F19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8662AC01-5FB8-4A56-A96D-E857E9463F19}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9C2DCA2-1B2E-4202-BE48-CB14EA6E238C}
+	EndGlobalSection
+EndGlobal
